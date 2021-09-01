@@ -1,0 +1,12 @@
+com/buildersweatherapp/BuildConfig.java
+ com.buildersweatherapp.BuildConfig
+com/buildersweatherapp/MainApplication.java
+ com.buildersweatherapp.MainApplication
+ com.buildersweatherapp.MainApplication$1
+com/buildersweatherapp/MainActivity.java
+ com.buildersweatherapp.MainActivity
+ com.buildersweatherapp.MainActivity$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/buildersweatherapp/generated/BasePackageList.java
+ com.buildersweatherapp.generated.BasePackageList
