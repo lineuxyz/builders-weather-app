@@ -67,7 +67,7 @@ Esse projeto foi criado com as seguintes tecnologias:
 
 ## ❓ Como usar
 
-Para clonar e rodar a aplicação, será necessário que você [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] installed on your computer.
+Para clonar e rodar a aplicação, será necessário que você [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) + [Yarn](https://yarnpkg.com/) instalado em seu computador
 
 Para rodar o projeto basta seguir os passos abaixo:
 
