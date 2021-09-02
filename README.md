@@ -86,6 +86,8 @@ $ yarn install
 # Instale as dependências do iOS
 $ cd ios && npx pod-install && cd ..
 
+# Crie um arquivo .env e adicione e api key, copiando do arquivo ".env.example"
+
 # Execute o projeto
 $ yarn start
 
